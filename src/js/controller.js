@@ -8,7 +8,6 @@ import resultsView from "./views/resultsView.js";
 import paginationView from "./views/paginationView.js";
 import bookmarksView from "./views/bookmarksView.js";
 import addRecipeView from "./views/addRecipeView.js";
-// https://forkify-api.herokuapp.com/v2
 
 const controlRecipes = async function () {
   try {
