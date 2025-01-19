@@ -75,10 +75,9 @@ Adjust Servings:
 
 Use the +/- buttons to change the number of servings, and ingredient quantities will update automatically.
 📂 Project Structure
-bash
-Copy
-Edit
+
 forkify-app/
+
 │
 ├── src/
 │   ├── img/                  # Images and icons
@@ -91,6 +90,8 @@ forkify-app/
 │
 ├── package.json              # Project dependencies
 └── README.md                 # Project documentation
+
+
 🤝 Contributing
 Contributions are welcome! To contribute:
 
