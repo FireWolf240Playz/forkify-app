@@ -73,25 +73,6 @@ Add Custom Recipes:
 Use the "Add Recipe" button to submit your own recipes.
 Adjust Servings:
 
-Use the +/- buttons to change the number of servings, and ingredient quantities will update automatically.
-📂 Project Structure
-
-forkify-app/
-
-│
-├── src/
-│   ├── img/                  # Images and icons
-│   ├── js/                   # JavaScript files
-│   │   ├── views/            # UI-related modules
-│   │   ├── helpers.js        # Helper functions
-│   │   └── model.js          # App logic
-│   ├── index.html            # Main HTML file
-│   └── index.js              # Entry point
-│
-├── package.json              # Project dependencies
-└── README.md                 # Project documentation
-
-
 🤝 Contributing
 Contributions are welcome! To contribute:
 
